@@ -26,5 +26,7 @@ font-end e html + css
 [Lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
 ## Autores
+| [<img loading="lazy" src="C:\Users\cruz.evellin\Pictures\Saved Pictures\5ab677d6-7b3a-489a-85ec-4df7bf1f4c58.jfif" width=115><br><sub>(Evellin Monteiro da Cruz)
+| :---: | :---: | :---: |
 Evellin Monteiro da Cruz
 
